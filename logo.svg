@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 530" width="520" height="530">
+  <!-- Black background -->
+  <rect width="520" height="530" fill="#1a1a1a" rx="12"/>
+  <!-- White 'n' arch shape -->
+  <path d="M40,530 L40,200 C40,89.5 129.5,0 240,0 L280,0 C390.5,0 480,89.5 480,200 L480,530 L360,530 L360,220 C360,164.8 315.2,120 260,120 C204.8,120 160,164.8 160,220 L160,530 Z" fill="#ffffff"/>
+  <!-- Red accent triangle top-right -->
+  <polygon points="400,0 480,0 480,80" fill="#e63333"/>
+</svg>
